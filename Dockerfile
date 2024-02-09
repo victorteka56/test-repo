@@ -1,1 +1,1 @@
-FROM --platform=arm64 branch1 
+FROM --platform=arm64 autoremediate2
