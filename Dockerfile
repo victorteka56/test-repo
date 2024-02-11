@@ -1,1 +1,1 @@
-FROM --platform=arm64 feature3
+FROM --platform=arm64 autoremediate2
