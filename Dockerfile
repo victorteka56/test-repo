@@ -1,3 +1,3 @@
-FROM --platform=arm64 autoremediate2
+FROM --platform=arm64 autoremediate900
 
 LABEL ENV="qa"
